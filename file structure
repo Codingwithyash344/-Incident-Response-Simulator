@@ -1,0 +1,9 @@
+incident_response_simulator/
+│
+├── incident_response_plan.py
+├── detect_incident.py
+├── containment.py
+├── eradication.py
+├── incident_timeline.py
+├── README.md
+└── requirements.txt
