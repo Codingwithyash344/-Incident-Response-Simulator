@@ -11,14 +11,22 @@ Compatible with Windows and Linux!
 
 
 python incident_response_plan.py
+
 python detect_incident.py
+
 python containment.py
+
 python eradication.py
+
 python incident_timeline.py
 
 
 
 set up Environment 
+
 python -m venv ir_env
+
 source ir_env/bin/activate   # Linux/macOS
+
+
 ir_env\Scripts\activate      # Windows
